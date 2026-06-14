@@ -19,11 +19,6 @@ Associate Software Engineer at Tech Mahindra
 * Programming Languages: Java, Python, JavaScript
 * Tools: Git, GitHub, VS Code, Postman
 
-### Current Focus
-* Building modern full-stack applications
-* Learning advanced system design and cloud technologies
-* Exploring AI and Machine Learning solutions
-
 ### Connect With Me
 📧 [20pa1a0563@vishnu.edu.in]
 
